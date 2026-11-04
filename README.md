@@ -163,7 +163,6 @@ python app.py
 
 By launching, an interactive interface will appear as follow.
 
-![overall_teaser](assets/teaser_demo.gif)
 
 ## 📊 Evaluation
 Please refer to the [evaluation documentation](docs/EVAL.md) for details.

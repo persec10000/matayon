@@ -37,10 +37,6 @@
 
 <strong>MatAnyone 2 is a practical human video matting framework that preserves fine details by avoiding segmentation-like boundaries, while also shows enhanced robustness under challenging real-world conditions.</strong>
 
-<div style="width: 100%; text-align: center; margin:auto;">
-    <img style="width:100%" src="assets/teaser.jpg">
-</div>
-
 :movie_camera: For more visual results, go checkout our <a href="https://pq-yang.github.io/projects/MatAnyone2/" target="_blank">project page</a>
 
 ---

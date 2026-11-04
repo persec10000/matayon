@@ -1,6 +1,5 @@
 <div align="center">
 <div style="text-align: center;">
-    <img src="./assets/matanyone2_logo.png" alt="MatAnyone Logo" style="height: 52px;">
     <h2>Scaling Video Matting via a Learned Quality Evaluator</h2>
 </div>
 
